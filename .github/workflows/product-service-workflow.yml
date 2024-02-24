@@ -26,4 +26,4 @@ jobs:
         with:
           context:  ./product-service/
           push: true
-          tags: anirudhjagath/eshop-product-service:latest
+          tags: abhijithunni/eshop-product-service:latest

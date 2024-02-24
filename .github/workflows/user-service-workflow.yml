@@ -26,4 +26,4 @@ jobs:
         with:
           context:  ./user/
           push: true
-          tags: anirudhjagath/eshop-user-service:latest
+          tags: abhijithunni/eshop-user-service:latest
