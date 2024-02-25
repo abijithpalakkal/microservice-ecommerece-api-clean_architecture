@@ -2,7 +2,7 @@ name: Build & Publish product service Docker image
 
 on:
   push:
-    branches: ['main']
+    branches: ['master']
     paths:
       - "product-service/**"
   workflow_dispatch:
